@@ -136,141 +136,213 @@ body {
 }
 .allbub .bub1 {
   position: absolute;
-  left: 3.5433860536%;
-  top: -8.2419997569%;
+  left: 24.8567252306%;
+  top: 31.4328033674%;
   -webkit-animation-delay: -0.2s;
           animation-delay: -0.2s;
 }
 .allbub .bub2 {
   position: absolute;
-  left: 81.7570204713%;
-  top: 52.196148768%;
+  left: 89.9879020043%;
+  top: 12.7681077523%;
   -webkit-animation-delay: -0.4s;
           animation-delay: -0.4s;
 }
 .allbub .bub3 {
   position: absolute;
-  left: 75.6692555261%;
-  top: 11.6613873368%;
+  left: 69.0537351538%;
+  top: 33.447228818%;
   -webkit-animation-delay: -0.6s;
           animation-delay: -0.6s;
 }
 .allbub .bub4 {
   position: absolute;
-  left: 2.7555174165%;
-  top: 20.9148591774%;
+  left: 6.1479602964%;
+  top: 0.6098263832%;
   -webkit-animation-delay: -0.8s;
           animation-delay: -0.8s;
 }
 .allbub .bub5 {
   position: absolute;
-  left: 36.5493859277%;
-  top: -7.9435097474%;
+  left: 5.8810392202%;
+  top: -0.5187848695%;
   -webkit-animation-delay: -1s;
           animation-delay: -1s;
 }
 .allbub .bub6 {
   position: absolute;
-  left: 75.5668402229%;
-  top: 32.0540198993%;
+  left: 39.487317993%;
+  top: 85.1632999939%;
   -webkit-animation-delay: -1.2s;
           animation-delay: -1.2s;
 }
 .allbub .bub7 {
   position: absolute;
-  left: 58.8115416732%;
-  top: -3.3388088655%;
+  left: 66.2613916404%;
+  top: 76.323978674%;
   -webkit-animation-delay: -1.4s;
           animation-delay: -1.4s;
 }
 .allbub .bub8 {
   position: absolute;
-  left: 99.7432102762%;
-  top: 64.597327353%;
+  left: 72.3382529546%;
+  top: 2.7441999691%;
   -webkit-animation-delay: -1.6s;
           animation-delay: -1.6s;
 }
 .allbub .bub9 {
   position: absolute;
-  left: 62.455087556%;
-  top: 50.0149084493%;
+  left: 52.9890250619%;
+  top: 47.2256648275%;
   -webkit-animation-delay: -1.8s;
           animation-delay: -1.8s;
 }
 .allbub .bub10 {
   position: absolute;
-  left: 64.0688320096%;
-  top: 10.6442321622%;
+  left: 51.5029907259%;
+  top: -4.3668405573%;
   -webkit-animation-delay: -2s;
           animation-delay: -2s;
 }
 .allbub .bub11 {
   position: absolute;
-  left: 18.0261985752%;
-  top: 30.5401293477%;
+  left: 58.2725033982%;
+  top: 28.5787483786%;
   -webkit-animation-delay: -2.2s;
           animation-delay: -2.2s;
 }
 .allbub .bub12 {
   position: absolute;
-  left: 14.1134438248%;
-  top: 28.7855466376%;
+  left: 61.5861850659%;
+  top: 46.6411761438%;
   -webkit-animation-delay: -2.4s;
           animation-delay: -2.4s;
 }
 .allbub .bub13 {
   position: absolute;
-  left: 15.9895616144%;
-  top: 72.7471134792%;
+  left: 89.6180301063%;
+  top: -4.9874865785%;
   -webkit-animation-delay: -2.6s;
           animation-delay: -2.6s;
 }
 .allbub .bub14 {
   position: absolute;
-  left: 60.7563045614%;
-  top: 43.2001024949%;
+  left: 67.2009867879%;
+  top: 60.0575292681%;
   -webkit-animation-delay: -2.8s;
           animation-delay: -2.8s;
 }
 .allbub .bub15 {
   position: absolute;
-  left: 93.260968685%;
-  top: 51.8996601405%;
+  left: 26.6673378189%;
+  top: 73.5330769534%;
   -webkit-animation-delay: -3s;
           animation-delay: -3s;
 }
 .allbub .bub16 {
   position: absolute;
-  left: 42.7836394622%;
-  top: -9.2337264148%;
+  left: 37.9461883908%;
+  top: 10.7643219154%;
   -webkit-animation-delay: -3.2s;
           animation-delay: -3.2s;
 }
 .allbub .bub17 {
   position: absolute;
-  left: 60.2789653781%;
-  top: 47.9416515673%;
+  left: 27.5267416576%;
+  top: 56.7081426518%;
   -webkit-animation-delay: -3.4s;
           animation-delay: -3.4s;
 }
 .allbub .bub18 {
   position: absolute;
-  left: 49.0218545826%;
-  top: 31.8536687706%;
+  left: 35.6111066207%;
+  top: 1.2164137851%;
   -webkit-animation-delay: -3.6s;
           animation-delay: -3.6s;
 }
 .allbub .bub19 {
   position: absolute;
-  left: 60.4365887525%;
-  top: 45.3699263776%;
+  left: 66.1973479904%;
+  top: 37.7312908751%;
   -webkit-animation-delay: -3.8s;
           animation-delay: -3.8s;
 }
 .allbub .bub20 {
   position: absolute;
-  left: 29.5675681353%;
-  top: 13.0675297525%;
+  left: 89.2422620995%;
+  top: 38.9626158528%;
   -webkit-animation-delay: -4s;
           animation-delay: -4s;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icecream > .flavor {
+  position: relative;
+  width: 190px;
+  height: 260px;
+  border-radius: 80px 80px 10px 10px;
+  overflow: hidden;
+}
+.icecream > .flavor:after {
+  content: '';
+  position: absolute;
+  left: 21px;
+  bottom: 20px;
+  width: 20px;
+  height: 170px;
+  border-radius: 50px;
+  background: white;
+}
+
+.icecream > .flavor > .flavours {
+  position: relative;
+  top: 0%;
+  left: -20%;
+  width: 140%;
+  height: 120%;
+  background-image: linear-gradient(0deg, #f63a99 25%, #30dcf6 25%, #30dcf6 25%, #30dcf6 50%, #f2d200 50%, #f2d200 50%, #f2d200 75%, #70ca5c 75%);
+  background-position: 0px 0px;
+  background-repeat: repeat-y;
+  -webkit-animation: flavours 100s linear infinite;
+          animation: flavours 100s linear infinite;
+  -webkit-transform: rotate(155deg);
+          transform: rotate(155deg);
+}
+
+.icecream > .stick {
+  width: 57px;
+  height: 86px;
+  background: #E09C5F;
+  border-radius: 0 0 25px 25px;
+  display: block;
+  margin: 0 auto;
+}
+.icecream > .stick:after {
+  display: block;
+  content: '';
+  width: 100%;
+  height: 0px;
+}
+
+@-webkit-keyframes flavours {
+  to {
+    background-position: 0 -1000vh;
+  }
+}
+
+@keyframes flavours {
+  to {
+    background-position: 0 -1000vh;
+  }
 }
